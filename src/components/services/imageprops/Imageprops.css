@@ -1,0 +1,17 @@
+
+.image-wrapper{
+    width: 267px;
+    transition: 1s;
+    height: 30px;
+    text-align: center;
+   
+}
+
+
+
+
+.image-wrapper:hover{
+    transform: scale(1.3);
+    z-index: 2;
+
+}
