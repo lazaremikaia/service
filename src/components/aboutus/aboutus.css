@@ -1,0 +1,51 @@
+.aboutus-container{
+    max-width: 1200px;
+    position: relative;
+    margin:  0 auto;
+    top: -600px;
+    display: flex;
+}
+
+
+
+.aboutus-title{
+ font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+display: flex;
+align-items: center;
+text-align: center;
+max-width: 659px;
+}
+
+.title-wrapper h2 {
+    text-align: center;
+}
+
+.title-wrapper{
+    position: absolute;
+    right: -50px;
+    max-width: 659px;
+    top: 60px;
+}
+
+
+.title-wrapper button {
+    color: #000000;
+    font-style: normal;
+     font-weight: 700;
+     font-size: 20px;
+     line-height: 28px;
+     background-color:  rgba(124, 184, 242, 1);
+     border-radius: 20px;
+     width: 256px;
+     height: 5vh;
+     margin-left: 200px;
+     margin-top: 20px;
+     
+}
+
+.aboutusimg-wrapper img {
+    margin-left: -100px;
+}

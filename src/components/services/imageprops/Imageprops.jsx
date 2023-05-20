@@ -5,7 +5,7 @@ function Serviceinfo(props) {
     return (
         <div className="image-wrapper">
             <a href=""><img className="image-box" src={props.image} alt="" /></a>
-            <p>გათამაშების დოლურა</p>
+            <p className="title">{props.text}</p>
         </div>
     )
     
