@@ -1,6 +1,6 @@
 import "./aboutus.css"
 import Aboutusimg from "../aboutus/aboutusbackground.png"
-import Meetingimg from "../aboutus/images/meetinimg.png"
+import Meetingimg from "../aboutus/images/imgaboutus.png"
 
 
 
@@ -10,7 +10,7 @@ function Aboutus() {
             <img src={Aboutusimg} alt="" />
             <div className="aboutus-container">
             <div className="aboutusimg-wrapper"> 
-            <img src={Meetingimg} alt="" />
+               <img src={Meetingimg} alt="" />
             </div>
             <div className="title-wrapper">
                 <h2>ჩვენს შესახებ</h2>

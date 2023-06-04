@@ -5,7 +5,9 @@
     top: -600px;
     display: flex;
 }
-
+.aboutus-wrapper{
+    height: 100vh;
+}
 
 
 .aboutus-title{
@@ -32,9 +34,7 @@ max-width: 659px;
 
 
 .title-wrapper button {
-    color: #000000;
     font-style: normal;
-     font-weight: 700;
      font-size: 20px;
      line-height: 28px;
      background-color:  rgba(124, 184, 242, 1);
@@ -43,9 +43,12 @@ max-width: 659px;
      height: 5vh;
      margin-left: 200px;
      margin-top: 20px;
+     border: none;
      
 }
 
 .aboutusimg-wrapper img {
-    margin-left: -100px;
+    max-width: 600.14px;
+    margin-left: -300px;
+    margin-top: -50px;
 }

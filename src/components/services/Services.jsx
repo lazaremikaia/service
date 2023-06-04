@@ -30,6 +30,14 @@ function Service() {
                 <Serviceinfo image={Serviceimage2} text = "ბილბორდები " />
                 <Serviceinfo image={Serviceimage3} text = "სანავიგაციო მაჩვენებლები"/>
                 <Serviceinfo image={Serviceimage4} text = "აბრები"/>
+                <Serviceinfo image={Serviceimage1} text = "გერბები"/>
+                <Serviceinfo image={Serviceimage2} text = "ბდენდირებული დროშები" />
+                <Serviceinfo image={Serviceimage3} text = " დიზაინი"/>
+                <Serviceinfo image={Serviceimage4} text = "მაისურებზე და ტექსტილზე ბეჭვდა"/>
+                <Serviceinfo image={Serviceimage1} text = "ქაღალდის პარკებზე და ჩანთებზე ბეჭვდა"/>
+
+
+                
             </div>
         </div>
     )
