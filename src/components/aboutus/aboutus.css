@@ -23,6 +23,7 @@ max-width: 659px;
 
 .title-wrapper h2 {
     text-align: center;
+    margin-top: -50px;
 }
 
 .title-wrapper{
